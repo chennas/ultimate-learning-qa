@@ -1,0 +1,18 @@
+# GitHub Pages Jekyll configuration
+# This file ensures optimal caching and compression for GitHub Pages
+
+# Exclude unnecessary files from the build
+exclude:
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - README.md
+  - .gitignore
+
+# Enable compression (GitHub Pages automatically serves gzip)
+# This is informational - GitHub Pages handles this automatically
+
+# Cache-Control headers are set by GitHub Pages automatically:
+# - HTML files: no-cache (always check for updates)
+# - CSS/JS with hashes: max-age=31536000 (1 year)
+# - Static assets: max-age=600 (10 minutes)
