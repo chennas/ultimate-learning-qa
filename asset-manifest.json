@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ultimate-learning-qa/static/css/main.785abca7.css",
-    "main.js": "/ultimate-learning-qa/static/js/main.6f8be1ff.js",
-    "static/css/271.6a288cfa.chunk.css": "/ultimate-learning-qa/static/css/271.6a288cfa.chunk.css",
-    "static/js/271.557e3c78.chunk.js": "/ultimate-learning-qa/static/js/271.557e3c78.chunk.js",
-    "static/css/942.8254bd3f.chunk.css": "/ultimate-learning-qa/static/css/942.8254bd3f.chunk.css",
-    "static/js/942.fcc96034.chunk.js": "/ultimate-learning-qa/static/js/942.fcc96034.chunk.js",
+    "main.js": "/ultimate-learning-qa/static/js/main.54950317.js",
+    "static/css/668.4cbcfec1.chunk.css": "/ultimate-learning-qa/static/css/668.4cbcfec1.chunk.css",
+    "static/js/668.e657b831.chunk.js": "/ultimate-learning-qa/static/js/668.e657b831.chunk.js",
+    "static/css/255.8254bd3f.chunk.css": "/ultimate-learning-qa/static/css/255.8254bd3f.chunk.css",
+    "static/js/255.22f190d8.chunk.js": "/ultimate-learning-qa/static/js/255.22f190d8.chunk.js",
     "static/js/206.80114770.chunk.js": "/ultimate-learning-qa/static/js/206.80114770.chunk.js",
     "static/js/627.e15f5c44.chunk.js": "/ultimate-learning-qa/static/js/627.e15f5c44.chunk.js",
     "static/js/744.5c48cbc6.chunk.js": "/ultimate-learning-qa/static/js/744.5c48cbc6.chunk.js",
@@ -13,10 +13,11 @@
     "static/js/775.a810358b.chunk.js": "/ultimate-learning-qa/static/js/775.a810358b.chunk.js",
     "static/js/278.b9727d45.chunk.js": "/ultimate-learning-qa/static/js/278.b9727d45.chunk.js",
     "static/js/371.53b4a665.chunk.js": "/ultimate-learning-qa/static/js/371.53b4a665.chunk.js",
+    "static/js/949.d7837d57.chunk.js": "/ultimate-learning-qa/static/js/949.d7837d57.chunk.js",
     "index.html": "/ultimate-learning-qa/index.html"
   },
   "entrypoints": [
     "static/css/main.785abca7.css",
-    "static/js/main.6f8be1ff.js"
+    "static/js/main.54950317.js"
   ]
 }
